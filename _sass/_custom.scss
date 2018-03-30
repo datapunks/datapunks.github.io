@@ -25,9 +25,22 @@
     color: #ffffff !important;
 }
 
+.spacer {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.spacer-small {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
 
 .title-area {
     max-width: 30rem;
     margin-left: auto;
     margin-right: auto;
+}
+
+.contact-form{
+  width: 30rem;
 }

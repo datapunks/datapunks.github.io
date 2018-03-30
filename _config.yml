@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Datapunks
 tagline:             Data bytes back
-url:                 http://datapunks.github.io
+url:                 http://datapunks.github.io/
 paginate:            1
 baseurl:             ""
 

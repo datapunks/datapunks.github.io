@@ -2,50 +2,83 @@
 layout: page
 ---
 
-<h1 style="text-align: center;">Unique stories need unique data.</h1>
+# Unique stories need unique data.
 
-## That's why we make customized data-technology for social change initiatives.
+That's why we make customized data-technology for social change initiatives.
 
-We undercut the cost and complexity of other data-management solutions by building lightweight technology designed for your program. No two apps are made the same.
+We undercut the cost and complexity of other data-management solutions by building lightweight technology specifically for your program's workflow.
 
-With data that's easy to enter and view, we capitalize on your staff's intrinsic desire to spread your story. That's why we specialize in...
+With data that's easy to enter and view, we capitalize on your staff's intrinsic desire to spread your story.
 
-* Streamlined data collection
-* Pragmatic data architecture
-* Loud data visualizations
+<br>
 
+## Punk Process
 
-# Pricing
+We focus on three data elements:
 
-## Transparent Technology
+<div class="w3-container w3-card-4 spacer-small" style="background: #505050">
 
-We use a collection of Microsoft software to set-up your data process that can be accessed and modified by anyone.
+<h4>Pragmatic Architecture</h4>
+
+<p>We balance your organization's desires, potential funder's desires, and reality.</p>
+
+</div>
+<div class="w3-container w3-card-4 spacer-small" style="background: #505050">
+
+<h4>Streamlined Collection</h4>
+
+<p>Data shouldn't be a chore. Using Microsoft PowerApps, we make phone/tablet/web-browser data entry apps that build habits by skipping confusing interfaces.</p>
+
+</div>
+<div class="w3-container w3-card-4 spacer-small" style="background: #505050">
+
+<h4>Loud Visualizations</h4>
+
+<p>Engage your staff with a database that isn't a black box. From internal reports to public mobile-responsive visualizations, your data has never been so exposed.</p>
+
+</div>
+
+<p style="text-align: center;">and it's done with <span style="color: #23eeec;">transparent technology</span>.</p>
+
+Microsoft has done the hard-work, we just mould it to your organization. No algorithmic wizardry required. If you like, we can build your organization's capacity to customize and maintain it. You feeling techie, punk?
+
+<br>
+
+## Pricing
 
 #### Setup
-A traditional data flow for a program with 3-8 staff runs $3000. Pay this over a year and start using the technology as soon as it's ready. If you're not convinced it's the future, stop paying us with no penalty.
+We charge $3,000 to setup most small-team data-entry operations. Use the technology as soon as it's ready and pay monthly. If you're not convinced it's the future, stop payment with no penalty.
 
 #### Upkeep
-We charge $100 monthly for upkeep, small updates, and 1 day support response time. Once your setup is paid off, let us manage it or take it on yourselves. You feeling techie, punk?
+Take it on or let us do it. We charge $125 monthly for 2 hours of IT time, free bug fixes, and a response within 24 hours.
 
 #### Monthly Licences
-If you're a registered non-profit with techsoup, licences are highly affordable:
+If you're a registered non-profit with techsoup.org, monthly licences for Microsoft's tech are highly affordable:
 
-A 8 staff team ($2.5/per) with 1 admin account ($30/per) and 2 PowerBI reporting accounts ($3/per) is $54/month.
+* $2.50 for Team Member (basic staff account)
+* $35.00 for an Administrative licence (you'll just need one)
+* $3.00 for PowerBI Pro licence (optional - allows for easy sharing of interactive visualizations)
 
 #### Visualization
 Data's more fun when it's seen. We'll make your rebellious internal or public-facing data visualizations for $60/hour, $45 if you use us for upkeep.
 
-# Contact
+<br>
 
-Give us a shout. Datapunks travel.
-<form>
-Name:<br>
-<input type="text" name="organization"><br>
-Email:<br>
-<input type="text" name="firstname"><br>
-Organization:<br>
-<input type="text" name="email"><br>
-Message:<br>
-<input type="textarea" style="width:250px;height:150px;" rows="10" columns="4" name="message"><br>
-<input type="submit" value="Submit">
-</form>
+Want to revolutionize your data?
+
+<form class="w3-container w3-card-4 spacer" style="background: #505050" method="POST" action="https://formspree.io/david@datapunks.ca">
+  <h2 style="text-transform: uppercase">let's punk it up</h2>
+  <p>      
+  <label>Name</label>
+  <input class="w3-input w3-border-0" type="text" name="Name"></p>
+  <p>      
+  <label>Email</label>
+  <input class="w3-input w3-border-0" type="text" name="Email"></p>
+  <p>      
+  <label>Organization website</label>
+  <input class="w3-input w3-border-0" type="text" name="Organization"></p>
+  <p>      
+  <label>Message</label>
+  <textarea class="w3-input w3-border-0" type="text" name="Message"></textarea>
+
+  <button class="w3-btn spacer-small" style="background:#23eeec;">Submit</button>

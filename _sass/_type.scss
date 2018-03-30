@@ -4,33 +4,46 @@
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: 600;
-  line-height: 1.25;
+  font-weight: 100;
+  line-height: 1.5;
   text-rendering: optimizeLegibility;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1 {
   font-size: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+p, li, ul {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
 }
 
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  text-align: center;
 }
 
 h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
+  font-weight: 300;
 }
 
 h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
+  text-transform: uppercase;
+  color: #23eeec;
 }
 
 p {
   margin-top: 1rem;
   margin-bottom: 1rem;
+  font-size: 1.3rem;
 }
 
 strong {
@@ -40,6 +53,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 1.2rem;
 }
 
 dt {
