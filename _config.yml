@@ -1,3 +1,27 @@
-theme: jekyll-theme-cayman
-title: datapunks
-description: byte back
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Datapunks
+tagline:             Data bytes back
+url:                 http://www.datapunks.ca
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              David Woodruff
+  url:               https://twitter.com/arespectableman
+  email:             davepwoodruff@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
