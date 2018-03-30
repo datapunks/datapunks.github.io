@@ -38,7 +38,7 @@ We focus on three data elements:
 
 </div>
 
-<p style="text-align: center;">and it's done with <span style="color: #23eeec;">transparent technology</span>.</p>
+<p style="text-align: center;">and it's done with <span style="color: #23eeec;">transparent technology</span></p>
 
 Microsoft has done the hard-work, we just mould it to your organization. No algorithmic wizardry required. If you like, we can build your organization's capacity to customize and maintain it. You feeling techie, punk?
 
