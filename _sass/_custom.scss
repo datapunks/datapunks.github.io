@@ -36,11 +36,16 @@
 }
 
 .title-area {
-    max-width: 30rem;
+    max-width: 36rem;
     margin-left: auto;
     margin-right: auto;
 }
 
 .contact-form{
   width: 30rem;
+}
+
+#submit-button {
+  text-align: center;
+  font-size: 1.1rem;
 }
