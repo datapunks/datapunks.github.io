@@ -16,13 +16,13 @@
 }
 
 .navigation a:hover {
-    color: #23eeec;
+    color: #ffffff;
     text-decoration: none;
 }
 
 //color of current nav icon
 .current {
-    color: #ffffff !important;
+    color: #23eeec !important;
 }
 
 .spacer {
@@ -40,6 +40,33 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.two-element {
+    display: inline-block;
+    width: inherit;
+    min-width: 300px;
+    // height: 300px;
+    vertical-align: middle;
+}
+
+#profile-statement {
+
+  // height: 300px;
+  //
+  // text-align: center;
+}
+
+#profile-picture {
+  max-width: 260px;
+}
+
+.right {
+   float: right;
+   padding: 0 0 20px 20px;}
+
+.left {
+   float: left;
+   padding: 0 20px 20px 0;}
 
 .contact-form{
   width: 30rem;

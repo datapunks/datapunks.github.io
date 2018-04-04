@@ -5,37 +5,37 @@ title: Home
 
 # Give your mission some byte
 
-Unique stories need unique data. That's why we make customized data-technology for social-change programs and initiatives.
+Unique stories need unique data. That's why we create customized data-systems for social-change missions.
 
-We undercut the cost and complexity of other data-management solutions by building lightweight technology specifically for your program's workflow.
+We undercut the cost and complexity of other data-management solutions by building lightweight technology to fit your staff's workflow.
 
-With accessible data-technology, we capitalize on your staff's intrinsic desire to spread your story.
+With accessible data, our systems capitalize on staff's intrinsic desire to tell your story.
 
 <br>
 
 ## The Punk Process
 
-We focus on three data elements:
+We focus on three key data elements:
 
 <div class="w3-container w3-card-4 spacer-small" style="background: #444851">
 
 <h4>Pragmatic Architecture</h4>
 
-<p>Together we'll define data that balances organizational and funder desires with reality and store it in a database that works for you.</p>
+<p>Together we'll define data that balances organizational and funder desires with reality, then store it in a database that works for you.</p>
 
 </div>
 <div class="w3-container w3-card-4 spacer-small" style="background: #444851">
 
 <h4>Streamlined Collection</h4>
 
-<p>Data shouldn't be a chore. We tailor phone/tablet/web-browser data entry experiences that builds habit and skips congested menus.</p>
+<p>Data shouldn't be a chore. We tailor phone/tablet/browser data entry experiences that skip the clipboard and build habit.</p>
 
 </div>
 <div class="w3-container w3-card-4 spacer-small" style="background: #444851">
 
 <h4>Loud Visualizations</h4>
 
-<p>Engage your staff with a database that isn't a black box. From internal reports to public mobile-responsive visualizations, your data has never been so exposed.</p>
+<p>Engage staff with a database that isn't a black box. From internal reports to public visualizations, your data has never been so exposed.</p>
 
 </div>
 
@@ -48,22 +48,24 @@ You feeling techie, punk?
 ## Pricing
 
 #### Setup
-We charge $3,000 to setup most small-team data-entry operations. Use the technology as soon as it's ready and pay monthly. If you're not convinced it's the future, stop payment with no penalty.
+Small-team data-entry setups start at $2,500. Use the technology as soon as it's ready and pay us monthly over a year. If you're not convinced it's the future, stop payment with no penalty.
 
 #### Upkeep
-DIY or let us handle it. We charge $125 monthly for 2 hours of IT time, free bug fixes, a response within 24 hours, and discounts on data-visualizations.
+DIY or let us handle it. Starting at $125 monthly, we offer 2 hours of IT time, free bug fixes, a response within 24 hours, and discounts on data-visualizations.
 
-#### Monthly Licences
-If you're a registered non-profit with techsoup.org, monthly licences for Microsoft's tech are super affordable:
+#### Licences
+If you're a registered non-profit with techsoup.org, monthly licences for Microsoft's tech are highly affordable:
 
-* $2.50 for Team Member (basic staff account)
-* $35.00 for an Administrative licence (you'll just need one)
-* $3.00 for PowerBI Pro licence (optional - allows for easy sharing of interactive visualizations)
+* $2.40 for a Team Member licence (basic staff account)
+* $35.00 for an Administrative licence (you'll only need one)
+* $3.00 for a PowerBI Pro licence (optional - allows for easy sharing of interactive visualizations)
 
-For a team of 8 expect around $60/month.
+For a team of 8, expect around $60/month in licencing costs.
 
 #### Visualization
-Data's more fun when it's seen. We'll make your rebellious internal or public-facing data visualizations for $60/hour, $40 if you use us for upkeep.
+Data's more fun when it's seen. We'll make your rebellious internal or public-facing visualizations for $60/hour, $40 if you use us for upkeep.
+
+Data visualizations are more than just report graphs. <a href="http://boylestreet.org/data" target="_blank" style="text-decoration:underline; color:#23eeec;">This live data-visualization project</a> we completed with Boyle Street Community Services is advocacy in action.
 
 <br>
 
