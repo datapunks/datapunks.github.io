@@ -48,7 +48,7 @@ You feeling techie, punk?
 ## Pricing
 
 #### Setup
-Small-team data-entry setups start at $2,500. Use the technology as soon as it's ready and pay us monthly over a year. If you're not convinced it's the future, stop payment with no penalty.
+Small-team data-entry setups can start at $2000 or less. Use the technology as soon as it's ready and pay us monthly over a year. If you're not convinced it's the future, stop payment with no penalty.
 
 #### Upkeep
 DIY or let us handle it. Starting at $125 monthly, we offer 2 hours of IT time, free bug fixes, a response within 24 hours, and discounts on data-visualizations.
@@ -59,8 +59,6 @@ If you're a registered non-profit with techsoup.org, monthly licences for Micros
 * $2.40 for a Team Member licence (basic staff account)
 * $35.00 for an Administrative licence (you'll only need one)
 * $3.00 for a PowerBI Pro licence (optional - allows for easy sharing of interactive visualizations)
-
-For a team of 8, expect around $60/month in licencing costs.
 
 #### Visualization
 Data's more fun when it's seen. We'll make your rebellious internal or public-facing visualizations for $60/hour, $40 if you use us for upkeep.
