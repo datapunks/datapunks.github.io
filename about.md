@@ -23,10 +23,10 @@ david@datapunks.ca
 
 <br>
 
-Want to revolutionize your data?
+Ready to revolutionize your data?
 
 <form class="w3-container w3-card-4 spacer" style="background: #444851" method="POST" action="https://formspree.io/david@datapunks.ca">
-  <h2 style="text-transform: uppercase">let's punk</h2>
+  <h2 style="text-transform: uppercase">See it in action</h2>
   <p>      
   <label>Name</label>
   <input class="w3-input w3-border-0" type="text" name="Name"></p>
