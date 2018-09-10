@@ -4,18 +4,18 @@
  <title>Datapunks</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-04-04T09:43:53-05:00</updated>
+ <updated>2018-09-10T16:40:17-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>David Woodruff</name>
-   <email>davepwoodruff@gmail.com</email>
+   <email>david@datapunks.ca</email>
  </author>
 
  
  <entry>
    <title>Is data viz cool?z</title>
    <link href="http://localhost:4000/2018/01/01/cool-data-bro/"/>
-   <updated>2018-01-01T00:00:00-05:00</updated>
+   <updated>2018-01-01T00:00:00-07:00</updated>
    <id>http://localhost:4000/2018/01/01/cool-data-bro</id>
    <content type="html">&lt;p&gt;check this ou!t mufucka!!!&lt;/p&gt;
 
@@ -42,7 +42,7 @@ console.log(&quot;did it&quot;);
  <entry>
    <title>Introduction</title>
    <link href="http://localhost:4000/2016/01/03/introduction/"/>
-   <updated>2016-01-03T00:00:00-05:00</updated>
+   <updated>2016-01-03T00:00:00-07:00</updated>
    <id>http://localhost:4000/2016/01/03/introduction</id>
    <content type="html">&lt;p&gt;&lt;em&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/em&gt; tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel’s supporting cast is a man by the name of Mr. Poole, Dr. Jekyll’s loyal butler.&lt;/p&gt;
 
@@ -90,7 +90,7 @@ console.log(&quot;did it&quot;);
  <entry>
    <title>Example content</title>
    <link href="http://localhost:4000/2016/01/02/example-content/"/>
-   <updated>2016-01-02T00:00:00-05:00</updated>
+   <updated>2016-01-02T00:00:00-07:00</updated>
    <id>http://localhost:4000/2016/01/02/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
@@ -279,7 +279,7 @@ console.log(&quot;did it&quot;);
  <entry>
    <title>What's Jekyll?</title>
    <link href="http://localhost:4000/2016/01/01/whats-jekyll/"/>
-   <updated>2016-01-01T00:00:00-05:00</updated>
+   <updated>2016-01-01T00:00:00-07:00</updated>
    <id>http://localhost:4000/2016/01/01/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
