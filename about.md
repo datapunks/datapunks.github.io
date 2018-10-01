@@ -6,7 +6,7 @@ title: About
 <!-- <div class="two-element"> -->
 <h2 id="profile-statement">Hey! I'm David Woodruff.</h2>
 <!-- </div>
-<div class="two-element"> -->
+
 <img src="/assets/david.png" id="profile-picture" alt="profile">
 <!-- </div> -->
 
@@ -14,9 +14,9 @@ I started Datapunks because non-profits & social-change organizations need their
 
 I've visited more than 12 inner-cities across North America searching for technology treasure. Instead of shining examples, I found the aspiration to try something new. I practice 'data ergonomics': a human factors approach to data-system interaction. Smarter interactions mean sharpened data in resource-scarce environments.
 
-Fitted with user-centered technology, I helped a crucial inner-city program increase reported usage by 125% and eliminate 57% missing demographics in one funding cycle. That data feeds a one-of-a-kind <a href="http://www.boylestreet.org/data" target="_blank" style="text-decoration:underline; color:#23eeec;">live data visualization project</a> that was <a href="http://www.metronews.ca/news/edmonton/2017/12/14/there-s-an-app-for-that-boyle-street-software-shows-new-picture-of-homelessness.html" target="_blank" style="text-decoration:underline; color:#23eeec;">well covered</a> in the <a href="https://globalnews.ca/news/3947119/boyle-street-inner-city-open-data-edmonton/" target="_blank" style="text-decoration:underline;color:#23eeec;">Edmonton media.</a> In seeing how a non-profit could use accessible data to leverage funding, engage the public, and advocate, Datapunks was born. <a href="http://boylestreet.org/data-scarcity-data-abundance/" target="_blank" style="text-decoration:underline;color:#23eeec;">Read more about that project here.</a>
+Fitted with user-centered technology, I helped a crucial inner-city program increase reported usage by 125% and eliminate 57% missing demographics in one funding cycle. That data feeds a one-of-a-kind <a href="http://www.boylestreet.org/data" target="_blank" style="text-decoration:underline; color:#23eeec;">live data visualization project</a> that was covered in the <a href="https://globalnews.ca/news/3947119/boyle-street-inner-city-open-data-edmonton/" target="_blank" style="text-decoration:underline;color:#23eeec;">Edmonton media.</a> In seeing how a non-profit could use accessible data to leverage funding, engage the public, and advocate, Datapunks was born. <a href="http://boylestreet.org/data-scarcity-data-abundance/" target="_blank" style="text-decoration:underline;color:#23eeec;">Read more about that project here.</a>
 
-I'm based in Edmonton, Alberta, but on good days you can find me bikecamping, longboarding, hiking in the Rockies, or working from bohemian cafes around the world.
+I'm based in Edmonton, Alberta, but on good days you can find me bikecamping, longboarding, hiking in the Rockies, or working in a local co-op.
 
 David
 david@datapunks.ca

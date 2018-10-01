@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2rem;
-  line-height: 1.5rem;
+  line-height: 3rem;
   margin-bottom: 2.5rem;
   text-align: center;
   text-transform: uppercase;
@@ -32,7 +32,7 @@ h2 {
 }
 
 h3 {
-  margin-top: 1.5rem;
+  margin-top: .5rem;
   font-size: 1.25rem;
   font-weight: 300;
 }
@@ -103,6 +103,11 @@ blockquote {
     padding-right: 5rem;
     padding-left: 1.25rem;
   }
+}
+
+caption {
+  color: #7a7a7a;
+  font-style: italic;
 }
 
 

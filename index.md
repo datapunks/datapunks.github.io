@@ -3,8 +3,8 @@ layout: page
 title: Home
 ---
 
-# You change the world
-# We want to help
+# You change the world.
+# We want to help.
 
 Accurate and timely data allows non-profits to own their story and react to trends. We aspire to be what the Stanford Social Innovation Review names as "<a href="https://ssir.org/articles/entry/code_switching_across_the_digital_data_divide" target="_blank" style="color: #23eeec; text-decoration:underline;">code switchers</a>": those who bridge the gap between social sector professionals and data specialists.
 
