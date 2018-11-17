@@ -3,51 +3,79 @@
 // Headings, body text, lists, and other misc typographic elements.
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  font-weight: 100;
-  line-height: 1.5;
+  // margin-bottom: .5rem;
+  font-weight: 300;
+  line-height: 1.3;
   text-rendering: optimizeLegibility;
-  font-family: 'Roboto', sans-serif;
+  // font-family: 'Roboto', sans-serif;
+  // font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 h1 {
-  font-size: 2rem;
-  line-height: 3rem;
-  margin-bottom: 2.5rem;
-  text-align: center;
-  text-transform: uppercase;
+
+  text-align: right;
+  width: 90%;
+  // font-size: 20rem;//calc(2rem + .5vw);
+  font-weight: 100;
+
+  margin-top: 5%;
+  // margin-bottom: calc(0.5rem + 2.3vw);
+  // text-align: center;
+  // text-transform: uppercase;
   color: #23eeec;
 }
 
 p, li, ul {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: lighter;
-  min-width: 200px;
+  // min-width: 200px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
   text-align: center;
+  // font-weight: 400;
 }
 
 h3 {
-  margin-top: .5rem;
-  font-size: 1.25rem;
-  font-weight: 300;
+  color: #FFBA81;
+  margin-top: 1rem;
+  font-size: 1rem;
+  text-align: right;
+  // font-weight: 400;
+  @media (max-width: 600px) {
+    text-align: center;
+  }
 }
 
-h4, h5, h6 {
-  margin-top: 1.5rem;
+h4 {
+  text-align: left;
+  // margin-right: 0%;
+  // margin-top: 1.5rem;
   font-size: 1rem;
   text-transform: uppercase;
-  color: #23eeec;
+  font-family: 'Roboto', sans-serif;
+  // color: #7CF4F4;
+  @media (max-width: 600px) {
+    text-align: center;
+  }
+}
+
+label {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
 }
 
 p {
-  margin-top: 0.9rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
-  font-size: 1.3rem;
+  font-size: 1.55rem;
 }
 
 strong {

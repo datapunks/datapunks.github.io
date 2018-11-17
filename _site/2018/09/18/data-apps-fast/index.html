@@ -8,17 +8,18 @@
   <!-- Google Analytics -->
   
 
-
+  
   <title>
     
       Datapunks &middot; Setup a intake and registration platform in 18 min with PowerApps
     
   </title>
   <!-- <script type="javascript/text" src="./assets/d3.js"></script> -->
-  <!-- <link href="https://fonts.googleapis.com/css?family=Karla|Noto+Sans|Open+Sans|Signika" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Roboto:100" rel="stylesheet"> -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Roboto:100,400" rel="stylesheet">
-  <script src="//d3js.org/d3.v4.min.js"></script>
+  <!-- <script src="//d3js.org/d3.v4.min.js"></script> -->
+
+  <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Roboto:100,300,400" rel="stylesheet"> -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700|Open+Sans:300,400,600,700|Roboto:100,300,400,500" rel="stylesheet">
+
   <link rel="stylesheet" href="/styles.css">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
   <link rel="alternate" type="application/atom+xml" title="Datapunks" href="/atom.xml">
@@ -39,20 +40,20 @@
     <div class="container content">
       <header class="masthead" id="myHeader">
         <div class="navigation" id ="myNav">
-          <a href="/" class="">HOME</a>
+          <!-- <a href="/" class="">HOME</a>
           <a href="/zine/" class="">ZINE</a>
-          <a href="/about/" class="">ABOUT</a>
+          <a href="/about/" class="">ABOUT</a> -->
 
         </div>
       </header>
-
+<!--
       <div class="title-area">
         <img src="/assets/datapunksDark.png" alt="logo">
-      </div>
+      </div> -->
 
       <main>
         <article class="page">
-    <h3>Setup a intake and registration platform in 18 min with PowerApps</h3>
+    <!-- <h4>Setup a intake and registration platform in 18 min with PowerApps</h4>
 <time datetime="2018-09-18T00:00:00-06:00" class="post-date">18 Sep 2018</time>
 <p>Custom data platforms in PowerApps are fast to build. In this video, see just how quickly an intake and check-in system can be composed!</p>
 
@@ -62,16 +63,36 @@
 <br>
 <p>
   <a href="https://datapunks.ca/zine" style="color: #23eeec; text-decoration:underline;">Back to the zine directory</a>
-</p>
+</p> -->
 
 </article>
 
       </main>
 
       <footer class="footer">
-        <br>
+        <br />
+        <div>
+          <form class="w3-container w3-card-4 line" id="form" style="background: #444851; max-width: 50rem; margin: auto; margin-top: 5rem; padding-top: 2rem;" method="POST" action="https://formspree.io/david@datapunks.ca">
+            <h2 style="text-transform: uppercase;">Feeling techie, punk?</h2>
+            <p style="text-align: center;">We'll get back to you shortly.</p>
+            <p style="text-align: left;">
+            <label>Name</label>
+            <input class="w3-input" type="text" name="Name"></p>
+            <p style="text-align: left;">
+            <label>Email</label>
+            <input class="w3-input" type="text" name="Email"></p>
+            <p style="text-align: left;">
+            <label>Website</label>
+            <input class="w3-input" type="text" name="Organization"></p>
+            <p style="text-align: left;">
+            <label>Message</label>
+            <textarea class="w3-input" type="text" name="Message"></textarea>
+            <div id="submit-button">
+            <button class="button" id="submit-button" style="margin-top:1rem; margin-bottom: 2rem">Submit</button>
+          </div>
+        </div>
         <small>
-          &copy; <time datetime="2018-10-01T16:03:29-06:00">2018</time> Datapunks. All rights reserved.
+          &copy; <time datetime="2018-11-16T19:53:21-07:00">2018</time> Datapunks. All rights reserved.
         </small>
       </footer>
     </div>

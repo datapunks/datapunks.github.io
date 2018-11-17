@@ -1,24 +1,7 @@
-.navigation {
-    width: 100%;
-    overflow: hidden;
-    text-align: center;
-    height: inherit;
-    display: inline-block;
-}
-.navigation a {
-    display: inline-block;
-    width: 5rem;
-    padding: 20px 0px;
-    vertical-align: middle;
-    color: #bababa;
-    font-size: 12px;
-    letter-spacing: 1.5px;
+html {
+  scroll-behavior: smooth;
 }
 
-.navigation a:hover {
-    color: #ffffff;
-    text-decoration: none;
-}
 
 //color of current nav icon
 .current {
@@ -26,9 +9,12 @@
 }
 
 .spacer {
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-top: 11rem;
 }
+
+// .h3-spacer {
+//     padding-top: 2.3rem;
+// }
 
 .spacer-small {
     margin-top: 1.5rem;
@@ -41,13 +27,78 @@
     margin-right: auto;
 }
 
-.two-element {
-    display: inline-block;
-    width: inherit;
-    min-width: 300px;
-    // height: 300px;
+// equalize row heights
+.row {
+  display: flex; /* equal height of the children */
+}
+
+.col {
+  flex: 1; /* additionally, equal width */
+
+  padding: 1em;
+  border: solid;
+}
+//
+
+.button {
+    background-color: #ff8826;
+    color: #f5f5f5;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-weight: 100;
+    border: none;
+    padding: 15px 24px;
+    text-align: center;
+    font-size: 19px;
+    margin: auto;
+    width: 22rem;
+    letter-spacing: 0.6px;
+}
+
+.button:hover{box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)}
+
+// For front page icons
+
+.promo-icon {
+    max-width: 70px;
+    max-height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    vertical-align: middle;
+
+    // display: block;
+}
+
+.trust-col-container {
+    display: table;
+    width: 100%;
+}
+
+.trust-col {
+    display: table-cell;
+    // padding: 16px;
     vertical-align: middle;
 }
+
+.trust-icon {
+    max-width: 8rem;
+    max-height: 8rem;
+    display:block;
+    //
+    margin:auto;
+}
+
+.line{
+    max-width: 60%;
+    padding-top: 3rem;
+    border-top: 2px solid #23eeec;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 #profile-statement {
 
@@ -73,6 +124,10 @@
 }
 
 #submit-button {
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  font-weight: 100;
   text-align: center;
   font-size: 1.1rem;
+  color: #f5f5f5;
 }
