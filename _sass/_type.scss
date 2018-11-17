@@ -16,7 +16,7 @@ h1 {
   text-align: right;
   width: 90%;
   // font-size: 20rem;//calc(2rem + .5vw);
-  font-weight: 100;
+  font-weight: 300;
 
   margin-top: 5%;
   // margin-bottom: calc(0.5rem + 2.3vw);
@@ -37,7 +37,7 @@ h2 {
   margin-top: 1rem;
   font-size: 1rem;
   text-align: center;
-  // font-weight: 400;
+  font-weight: 300;
 }
 
 h3 {
@@ -45,7 +45,7 @@ h3 {
   margin-top: 1rem;
   font-size: 1rem;
   text-align: right;
-  // font-weight: 400;
+  font-weight: 400;
   @media (max-width: 600px) {
     text-align: center;
   }
@@ -68,7 +68,7 @@ label {
   font-size: 1.1rem;
   text-transform: uppercase;
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
+  font-weight: 400;
 }
 
 p {
