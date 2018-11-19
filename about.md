@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-<h1 style="text-align: center; margin: auto; padding-top: 3rem;">About</h1>
+<h1 style="text-align: center; margin: auto; padding-top: 3rem; font-size: 27px; padding-bottom: 1rem;">How disobedient is your data?</h1>
+
+<!-- <div style="padding-top: 4rem;"></div> -->
 
 Datapunks was formed in response to the lackluster technology used to record social sector program data.
 
