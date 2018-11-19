@@ -89,7 +89,7 @@ title: Home
     </div>
 
     <div class="w3-threequarter">
-      <p>Our system prioritizes transparent data practices for every stakeholder. We're trained in OCAP principles and are happy to help draft a PIPA/FOIP compliant data consent form.</p>
+      <p>Our system prioritizes transparent data practices for every stakeholder. We're trained in OCAP principles and are happy to help create a PIPA/FOIP compliant data consent form.</p>
     </div>
 
   </div>
@@ -99,7 +99,7 @@ title: Home
     <h2 class="line">We're committed to affordability.</h2>
 
 
-    <p style="margin-bottom: 2rem; text-indent: 40px;"> We know that unallocated funds in non-profits are rare and we’re honored that you’d consider us to invest in your data. Here’s how we prioritize affordability:</p>
+    <p style="margin-bottom: 2rem;"> We know that unallocated funds in non-profits are rare and we’re honored that you’d consider us. Here’s how we prioritize affordability:</p>
 
     <div class="w3-quarter">
       <h3>Tiny overhead</h3>
