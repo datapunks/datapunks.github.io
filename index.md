@@ -34,7 +34,7 @@ title: Home
 
     <div class="container w3-row-padding">
       <div class="w3-quarter"><img src="/assets/ruler_pencil.png" class="promo-icon"></div>
-      <div class="w3-threequarter"><h4>Data determined by your work and attitude</h4></div>
+      <div class="w3-threequarter"><h4>Data determined by your non-profit's work and attitude</h4></div>
     </div>
 
     <div class="container w3-row-padding">
