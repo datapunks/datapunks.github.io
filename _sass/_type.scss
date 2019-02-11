@@ -15,7 +15,7 @@ h1 {
 
   text-align: right;
   width: 90%;
-  // font-size: 20rem;//calc(2rem + .5vw);
+  font-size: 3.2rem;
   font-weight: 300;
 
   margin-top: 5%;
@@ -35,15 +35,17 @@ p, li, ul {
 
 h2 {
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 2rem;
   text-align: center;
   font-weight: 300;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
 }
 
 h3 {
   color: #FFBA81;
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 1.75rem;
   text-align: right;
   font-weight: 400;
   @media (max-width: 600px) {
@@ -53,10 +55,10 @@ h3 {
 
 h4 {
   text-align: left;
-  // margin-right: 0%;
-  // margin-top: 1.5rem;
-  font-size: 1rem;
-  text-transform: uppercase;
+  margin-top: 2.95rem; //45 px centers
+  margin-bottom: 2.95rem;
+  font-size: 1.7rem;
+  //text-transform: uppercase;
   font-family: 'Roboto', sans-serif;
   // color: #7CF4F4;
   @media (max-width: 600px) {

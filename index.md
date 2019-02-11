@@ -9,8 +9,7 @@ title: Home
       </div>
 
     <div class="image-top-right w3-half">
-      <h1>You change the world.</h1>
-      <h1>We can prove it.</h1>
+      <h1>Data infrastructure that empowers.</h1>
     </div>
   </div>
 
@@ -30,34 +29,40 @@ title: Home
 <div class="container w3-row" style="margin-top: 2rem;">
   <div class = "w3-half w3-row">
 
-    <h2>Our strategy</h2>
+    <h2>Services</h2>
 
     <div class="container w3-row-padding">
-      <div class="w3-quarter"><img src="/assets/ruler_pencil.png" class="promo-icon"></div>
-      <div class="w3-threequarter"><h4>Data determined by your non-profit's work and attitude</h4></div>
+      <div class="w3-quarter"><img src="/assets/data_secure.png" class="promo-icon"></div>
+
+      <div class="w3-threequarter"><h4>Creating and administrating data-systems</h4></div>
     </div>
 
     <div class="container w3-row-padding">
       <div class="w3-quarter"><img src="/assets/computer_charts.png" class="promo-icon"></div>
-      <div class="w3-threequarter"><h4>Graphs that catch funder and public attention</h4></div>
+      <div class="w3-threequarter"><h4>Data visualization, dashboarding, & reporting</h4></div>
     </div>
 
     <div class="container w3-row-padding">
-      <div class="w3-quarter"><img src="/assets/piggy_bank_coin.png" class="promo-icon"></div>
-      <div class="w3-threequarter"><h4>Groundbreaking technology at non-profit prices</h4></div>
+      <div class="w3-quarter"><img src="/assets/ruler_pencil.png" class="promo-icon"></div>
+      <div class="w3-threequarter"><h4>Data process mapping & improvement</h4></div>
     </div>
+
   </div>
 
   <div class = "w3-half">
-    <h2>Trusted by</h2>
+    <h2>Trusted By</h2>
 
     <div class="trust-col-container" style="margin-top: 4rem;">
       <div class="trust-col">
-        <img src="/assets/boyle_logo.png" class="trust-icon">
+        <a href="http://www.boylestreet.org/" target="_blank"><img src="/assets/boyle_logo.png" class="trust-icon"></a>
       </div>
 
       <div class="trust-col">
-        <img src="/assets/c5_logo.png" class="trust-icon">
+        <a href="http://c5edmonton.ca/" target="_blank"><img src="/assets/c5_logo.png" class="trust-icon"></a>
+      </div>
+
+      <div class="trust-col">
+        <a href="https://ihuman.org/" target="_blank"><img src="/assets/ihuman_logo.png" class="trust-icon"></a>
       </div>
 
     </div>
@@ -65,31 +70,31 @@ title: Home
   </div>
 
   <div class="container w3-row">
-    <h2 class="line">Our data is creative, loud, and accountable.</h2>
+    <h2 class="line">Values</h2>
 
     <div class="w3-quarter">
     <div class="h3-spacer"></div>
-      <h3>Creative</h3>
+      <h3>Frictionless Data</h3>
     </div>
 
     <div class="w3-threequarter">
-      <p>Combining on-site research and low code development platforms, we hand-make data experiences for people of all tech savvy.</p>
+      <p>Our process, steeped in user-centered design, will ditch confusing interfaces and optimize your time spent collecting and analyzing data.</p>
     </div>
 
     <div class="w3-quarter">
-      <h3>Loud</h3>
+      <h3>Useful Data</h3>
     </div>
 
     <div class="w3-threequarter">
-      <p>Data unseen is data unused. Our interactive and colourful reports will get in the heads of your staff, managers, and funders.</p>
+      <p>No more black boxes. Our dynamic systems engage staff on all levels through linked, transparent, and accessible data.</p>
     </div>
 
     <div class="w3-quarter">
-      <h3>Accountable</h3>
+      <h3>Local Data</h3>
     </div>
 
     <div class="w3-threequarter">
-      <p>Our system prioritizes transparent data practices for every stakeholder. We're trained in OCAP principles and are happy to help create a PIPA/FOIP compliant data consent form.</p>
+      <p>We know Albertan privacy legislation and are trained in First Nations Information Governance Centre’s OCAP principles. All data is hosted in secure Canadian Microsoft datacenters.</p>
     </div>
 
   </div>
@@ -99,10 +104,10 @@ title: Home
     <h2 class="line">We're committed to affordability.</h2>
 
 
-    <p style="margin-bottom: 2rem;"> We know that unallocated funds in non-profits are rare and we’re honored that you’d consider us. Here’s how we prioritize affordability:</p>
+    <p style="margin-bottom: 2rem; text-align: center;">We know that unallocated funds in mission driven organizations are rare. Here’s how we prioritize affordability:</p>
 
     <div class="w3-quarter">
-      <h3>Tiny overhead</h3>
+      <h3>Low overhead</h3>
     </div>
 
     <div class="w3-threequarter">
@@ -114,7 +119,7 @@ title: Home
     </div>
 
     <div class="w3-threequarter">
-      <p>We’ve chosen Microsoft tech because of the hearty non-profit discounts they give. Licensing for a team of 15 can be less than $95 monthly.</p>
+      <p>We’ve chosen Microsoft tech because of the hearty non-profit discounts they give. Licensing for a team of 15 can be less than $95 monthly. Other leading competitors will charge $100/user/month.</p>
     </div>
 
     <div class="w3-quarter">

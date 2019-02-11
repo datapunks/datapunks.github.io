@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<h1 style="text-align: center; margin: auto; padding-top: 3rem; font-size: 27px; padding-bottom: 1rem;">How disobedient is your data?</h1>
+<h1 style="text-align: center; margin: auto; padding-top: 3rem; font-size: 27px; padding-bottom: 1rem;">Is Your Data Disruptive?</h1>
 
 <!-- <div style="padding-top: 4rem;"></div> -->
 
@@ -32,4 +32,4 @@ The times of half-baked privacy and consent practices are over. Service recipien
 
 <div class="line"></div>
 
-Datapunks is based in Edmonton, Alberta and manned by David Woodruff, a lover of logic, design, and longboarding. After using new technology for important winter warming program, <a href="http://boylestreet.org/data-scarcity-data-abundance/" target="_blank" style="text-decoration:underline;color:#23eeec;">increasing reported visits by 125% and eliminating 57% missing demographics</a>, David went independent.
+Datapunks is based in Edmonton, Alberta and manned by David Woodruff, a lover of data, design, and adventuring. After using new technology for important winter warming program, <a href="http://boylestreet.org/data-scarcity-data-abundance/" target="_blank" style="text-decoration:underline;color:#23eeec;">increasing reported visits by 125% and eliminating 57% missing demographics</a>, David went independent.
