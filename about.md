@@ -7,7 +7,7 @@ title: About
 
 <!-- <div style="padding-top: 4rem;"></div> -->
 
-Datapunks was formed in response to the lackluster technology used to record social sector program data.
+Datapunks was formed in response to the lackluster program-databases for small to medium sized non-profits.
 
 Non-profits are increasingly interested in data, both to improve themselves and appeal to funders. However, technology in the sector has been stagnant due to high for-profit tech wages and a US social sector market more interested in fundraising data.
 

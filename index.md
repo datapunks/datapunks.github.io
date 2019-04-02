@@ -9,7 +9,8 @@ title: Home
       </div>
 
     <div class="image-top-right w3-half">
-      <h1>Data infrastructure that empowers.</h1>
+      <h1>You change the world.</h1>
+      <h1>We prove it.</h1>
     </div>
   </div>
 
