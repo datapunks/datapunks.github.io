@@ -10,7 +10,7 @@ title: Zine
 For decades, access to safe drinking water has been an issue for hundreds of Canadian First Nations.
 
 The federal government has released an <a href="https://open.canada.ca/data/en/dataset/5f73fff7-2011-48b9-af52-ffb31e68539c
-" target="_blank" style="text-decoration:underline;color:#23eeec;">open data set</a> of Boil Water Advisories (BWA) detailing advisories placed between February 1995 and May 2017. Below is a high level summary of how First Nations have been affected.
+" target="_blank" style="text-decoration:underline;color:#23eeec;">open data set</a> of Boil Water Advisories (BWA) detailing advisories placed between February 1995 and May 2017. Below is a bird's eye view of how First Nations have been affected.
 
 <div class="line"></div>
 
