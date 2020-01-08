@@ -12,13 +12,14 @@ html {
     margin-top: 11rem;
 }
 
+
 // .h3-spacer {
 //     padding-top: 2.3rem;
 // }
 
 .spacer-small {
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 .title-area {
@@ -45,13 +46,13 @@ html {
     color: #f5f5f5;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
     border: none;
     padding: 15px 24px;
     text-align: center;
-    font-size: 19px;
+    font-size: 1.4rem;
     margin: auto;
-    width: 22rem;
+    width: 25rem;
     letter-spacing: 0.6px;
 }
 
@@ -91,13 +92,37 @@ html {
 }
 
 .line{
-    max-width: 60%;
+    max-width: 40%;
+    border-top: 0.25rem solid #23eeec;
     padding-top: 3rem;
-    border-top: 2px solid #23eeec;
     margin-top: 3rem;
     margin-left: auto;
     margin-right: auto;
 }
+
+.line-large{
+    max-width: 100%;
+    border-top: 0.5rem solid #ff8826;
+    padding-top: 3rem;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.datavis{
+  width: 960px;
+  padding-top: 3rem;
+  margin-top: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media only screen and (max-width: 1100px) {
+    div.desktop-only {
+        display: none;
+    }
+}
+
 
 
 #profile-statement {
@@ -125,8 +150,9 @@ html {
 
 #submit-button {
   font-family: 'Roboto', sans-serif;
+  font-weight: 400;
   text-transform: uppercase;
   text-align: center;
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   color: #f5f5f5;
 }
