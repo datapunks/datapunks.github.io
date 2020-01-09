@@ -1,0 +1,52 @@
+I"q<h1 id="the-theory-an-ergonomic-and-minimalist-approach-to-data">The Theory: An Ergonomic and Minimalist Approach to Data.</h1>
+
+<p>Data ergonomimcs. If it sounds made up, it’s because it is. A little.</p>
+
+<p>Ergonomics is concerned with designing and arranging people and tools to create a more effective process. Applied to data, this means pragmatically defining your data-to-be and designing the data-system to integrate easily into staff workflows. Staff’s intrinsic motivation to communicate their important work meets resistance when data-systems are overly-bothersome, and collected data feels unused. By improving the way people enter and access data, non-profits can build data buy-in naturally using staff’s intrinsic motivation to story-tell.</p>
+
+<h1 id="the-technology-cutting-edge-software-adapted-for-social-change">The Technology: Cutting Edge Software adapted for Social Change</h1>
+
+<p>Theory is nice, but it’s nothing without tools.</p>
+
+<h3 id="collection">Collection</h3>
+
+<p>Central to data ergonomics are data tools to meet people where they are at. PowerApps allows the creation of database interaction apps through a graphical user-interface.</p>
+
+<p>“Oooooh, a web-based GUI tool to create enterprise apps that look feel sloppy compared with the Silicon Valley native apps”, you might be saying.</p>
+
+<p>First, no one likes a tech snob. They may not be as snappy as something from the App Store, but don’t underestimate these apps, they skip the diploma-long learning curve and can be made in days instead of weeks. If you’re shy a couple $100k for a native-developed app, these will do.</p>
+
+<p>Second, these apps outpace native apps in a crucial way they can be accessed from any platform. That’s right, make one app and access it from your Android phone, your Windows tablet, or your Mac’s web-browser. This level of accessibility is unheard of in mobile technology. The closest equivalent would be a custom web-responsive website (and a couple $100k).</p>
+
+<h3 id="architecture">Architecture</h3>
+
+<p>Because we use PowerApps to collect the data, our options for collection are limited to Microsoft tech. But because Microsoft never stops coding to take and break and see if there’s any overlap in the tech their making, you still have a few operations</p>
+
+<h4 id="the-common-data-service">The Common Data Service</h4>
+
+<p>For smaller non-profits looking for a lightweight implementation, Common Data Service is the way to go. It let’s you define entities (like “Dinosuar”, or “Natural Disasters”) and then give those entities any data field you’d like (such as “Scaryness, (integer, 0-10)” or “reptiles exterminated (integer, 0-1000000)”). Though the graphical user interface to play with this data is lacking, PowerApps can step in to do the work.</p>
+
+<h4 id="dynamics-365">Dynamics 365</h4>
+
+<p>This starts to stray from lightweight as setting up Dynamics requires more expertise and time to set up. Once it is set up though, Dynamics offers a powerful user interface to edit and search your organization’s data.</p>
+
+<h4 id="excel">Excel</h4>
+
+<p>Some people absolutely love excel, and we’re not here to convince them otherwise. PowerApps can read from, and enter data into Excel sheets, though managing your excel sheets may take a bit neuroticism. It’s worth mentioning that the solutions above can both export to excel.</p>
+
+<h3 id="visualization">Visualization</h3>
+
+<p>This is the best part. All the hard work entering that data leads up to the point when the graphs really come to life.</p>
+
+<h4 id="powerbi">PowerBI</h4>
+
+<p>This gets first mention because it’s easy. Connect your database above to PowerBI in a couple clicks and then have way too much fun making interactive graphs.</p>
+
+<h4 id="d3">D3</h4>
+
+<p>When you want a public data visualization super-customized and mobile-responsive, there’s no better solution than the open-source javascript library D3 (Data Driven Documents).</p>
+
+<h5 id="others-tableau-excel-etc">Others (Tableau, Excel, etc.)</h5>
+
+<p>If you have excel sheets, there’s a ton of software that will help you visualize it. If you’re keen to use something else, power to ya.</p>
+:ET

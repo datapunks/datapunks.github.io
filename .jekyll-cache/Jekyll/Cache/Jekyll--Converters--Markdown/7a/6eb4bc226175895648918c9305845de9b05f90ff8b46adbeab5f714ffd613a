@@ -1,0 +1,108 @@
+I"6<div class="image-container" style="margin-top: 0.9rem;">
+  <div class="w3-row" style="margin-top: 3rem;">
+    <div class="image-top-left w3-half">
+      <img src="/assets/datapunksDark.png" id="bkg" alt="bkg-id" style="max-height:15rem; max-width: 85%;" />
+      </div>
+
+    <div class="image-top-right w3-half">
+      <h1>You change the world.</h1>
+      <h1>We help you prove it.</h1>
+    </div>
+  </div>
+
+  <div class="spacer w3-hide-small"></div>
+
+  <div class="w3-row">
+
+    <a href="#form" style="text-decoration: none;">
+      <div class="button w3-btn.hover" style="margin-bottom: 4rem" a="" href="#form">
+        Revolutionize your data
+      </div>
+    </a>
+  </div>
+
+</div>
+<div class="line-large" style="padding-top: 0rem; margin-top: 0rem;"></div>
+<div class="container w3-row" style="margin-top: 1rem;">
+
+  <div class="container w3-row">
+    <h2>Our Mission</h2>
+    <p style="text-align: center;"> To co-design innovative data technology with service-delivery staff on the frontline. We believe equipping staff with effective data-technology creates a more informed, better served, public.</p>
+    <div class="spacer-small"></div>
+    <p style="text-align: center;">If your organization is looking to inform front-line, organizational, and public decisions with actionable data, our customized data tools are for you. </p>
+
+
+  </div>
+
+  <div class="line-large" style="padding-top: 0rem; margin-top: 2rem;"></div>
+
+  <div class="container w3-col">
+
+    <h2>Featuring:<br />Intuitive Interfaces</h2>
+
+    <p>Credible data starts at the frontline. Empower your organization with friendly interfaces made-to-order. Our tools are made to fit your existing processes on any device.</p>
+
+
+  </div>
+
+  <div class="container w3-col">
+
+    <h2 class="line">Interactive Reports</h2>
+
+    <p>Data unseen is data unused. Our interactive reports allow you to retrieve funder requirements in minutes, freeing time for more nuanced analysis.</p>
+
+    <a href="/about#report" style="text-decoration: none;">
+      <div class="button w3-btn.hover desktop-only" style="width: 12rem;" a="" href="#form">
+        TRY ME
+      </div>
+    </a>
+
+
+  </div>
+
+  <div class="container w3-col">
+
+    <h2 class="line">Prices that don't require profits</h2>
+
+    <p>Our projects are priced with your needs in mind. We provide innovation at a flat monthly fee and leave the absurd implementation fees to the capitalists. We work in the Microsoft ecosystem; all licences are heavily discounted (60% or more) for non-profits.</p>
+  </div>
+
+  <div class="w3-row">
+
+    <a href="/about" style="text-decoration: none;">
+      <div class="button w3-btn.hover" style="margin-bottom: 2rem; margin-top: 2rem; background-color: #00BEBE" a="" href="/about">
+        LEARN MORE
+      </div>
+    </a>
+  </div>
+  <div class="container w3-row">
+    <h2 class="line-large">PARTNERS IN PUNK</h2>
+
+    <div class="trust-col-container" style="margin-top: 4rem;">
+      <div class="trust-col">
+        <a href="http://www.boylestreet.org/" target="\_blank"><img src="/assets/boyle_logo.png" class="trust-icon" /></a>
+      </div>
+
+      <div class="trust-col">
+        <a href="http://c5edmonton.ca/" target="\_blank"><img src="/assets/c5_logo.png" class="trust-icon" /></a>
+      </div>
+
+      <div class="trust-col">
+        <a href="https://ihuman.org/" target="\_blank"><img src="/assets/ihuman_logo.png" class="trust-icon" /></a>
+      </div>
+
+      <div class="trust-col">
+        <a href="https://jpwc.ca/" target="\_blank"><img src="/assets/jpwc_logo.png" class="trust-icon" /></a>
+      </div>
+
+    </div>
+
+  <h3 class="spacer-small" style="text-align: center;">"Yes wow everyh exciting if you think that. one of the best no doubt is a band with gewwnnn."<br />
+  <p style="text-align: center;">Murray Soroka <br />Executive Director<br />Jasper Place Wellness Centre</p>
+
+
+  &lt;/div&gt;
+
+&lt;/div&gt;
+</h3></div></div>
+:ET

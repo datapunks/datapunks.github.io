@@ -4,8 +4,8 @@ permalink:           pretty
 # Setup
 title:               Datapunks
 tagline:             Mission with byte
-url:                 http://datapunks.github.io
-# url:                 http://localhost:4000
+#url:                 http://datapunks.github.io
+url:                 http://localhost:4000
 paginate:            0
 baseurl:             ""
 
