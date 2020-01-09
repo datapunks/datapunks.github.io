@@ -31,7 +31,7 @@ title: Home
 <div class="container w3-row" style="margin-top: 1rem;">
 
   <div class="container w3-row">
-    <h2>Our Mission:</h2>
+    <h2>Our Mission</h2>
     <p style="text-align: center;"> To co-design innovative data technology with service-delivery staff on the frontline. We believe equipping staff with effective data-technology creates a more informed, better served, public.</p>
     <div class="spacer-small"></div>
     <p style="text-align: center;">If your organization is looking to inform front-line, organizational, and public decisions with actionable data, our customized data tools are for you. </p>
@@ -54,18 +54,13 @@ title: Home
 
     <h2 class="line">Interactive Reports</h2>
 
-    <div class="w3-quarter">
-      <a href="/about#report" style="text-decoration: none; float: right;">
-        <div class="button w3-btn.hover desktop-only" style="width: 12rem;" a href="#form">
-          TRY ME
-        </div>
-      </a>
-    </div>
+    <p>Data unseen is data unused. Our interactive reports allow you to retrieve funder requirements in minutes, freeing time for more nuanced analysis.</p>
 
-    <div class="w3-threequarter">
-      <p>Data unseen is data unused. Our interactive reports allow you to retrieve funder requirements in minutes, freeing time for more nuanced analysis.</p>
-    </div>
-
+    <a href="/about#report" style="text-decoration: none;">
+      <div class="button w3-btn.hover desktop-only" style="width: 12rem;" a href="#form">
+        TRY ME
+      </div>
+    </a>
 
 
   </div>
